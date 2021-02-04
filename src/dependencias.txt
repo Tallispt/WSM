@@ -1,0 +1,8 @@
+Dependencias instaladas:
+
+react
+expo-camera
+react-navigation/natigator
+@react-navigation/bottom-tabs
+@react-navigation/stack
+react-native-gesture-handler@1.7.0
